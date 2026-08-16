@@ -1,0 +1,9 @@
+# Change Log - Testing & CI Workflow
+
+## Summary
+- Initializing repository configuration test for GitHub workflow.
+- Testing pull request mechanics and commit tracking.
+
+## Status
+- Status: Active
+- Contributor: Joko Santoso (@santosoj160)
